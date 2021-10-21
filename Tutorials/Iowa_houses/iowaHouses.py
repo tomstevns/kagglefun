@@ -75,7 +75,8 @@ print(predictions)
 """
 Think About Your Results
 Use the head method to compare the top few predictions to the actual home values (in y) for those same homes.
- Anything surprising?"""
+ Anything surprising?
+ """
 
 print("Making predictions for the following 5 houses:")
 print(X.head())
